@@ -1,0 +1,36 @@
+_repo: The-Soul-of-Ann-Rutledge-Abraham-Lincoln-s-Romance_62028
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Hoskins, Gayle Porter
+    birthdate: 1887
+    deathdate: 1962
+    gutenberg_agent_id: '32695'
+    url: http://www.gutenberg.org/2009/agents/32695
+    wikipedia: https://en.wikipedia.org/wiki/Gayle_Porter_Hoskins
+creator:
+  author:
+    agent_name: Babcock, Bernie
+    alias: Babcock, Bernie Smade
+    birthdate: 1868
+    deathdate: 1962
+    gutenberg_agent_id: '9252'
+    url: http://www.gutenberg.org/2009/agents/9252
+    wikipedia: https://en.wikipedia.org/wiki/Bernie_Babcock
+description: ''
+gutenberg_issued: '2020-05-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62028'
+  lccn: unk85011470
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Rutledge, Ann, -1835 -- Fiction'
+- GITenberg
+title: 'The Soul of Ann Rutledge: Abraham Lincoln''s Romance'
+url: http://www.gutenberg.org/ebooks/62028
